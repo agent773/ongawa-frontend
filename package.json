@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "cora": "^0.1.0",
-    "cors": "^2.8.5",
-    "firebase": "^10.12.3"
-  }
-}
